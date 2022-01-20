@@ -2,13 +2,25 @@
   "item.mccourse.cobalt_ingot": "Cobalt Ingot",
   "item.mccourse.cobalt_nugget": "Cobalt Nugget",
   "item.mccourse.raw_cobalt": "Raw Cobalt",
+  "item.mccourse.power_staff": "Super Cool Power Staff",
+  "item.mccourse.cobalt_stick": "Cobalt Stick",
+  "item.mccourse.dowsing_rod": "Dowsing Roddy",
+  "item.mccourse.turnip": "Turnip",
 
 
   "block.mccourse.cobalt_block": "Cobalt Block",
   "block.mccourse.cobalt_ore": "fucker",
   "block.mccourse.cobalt_deepslate": "Cobalt Deepslate",
   "block.mccourse.raw_cobalt_block": "Raw Cobalt Block",
+  "block.mccourse.thing": "thing",
+  "block.mccourse.speedy_block": "SPEED",
 
-  "itemGroup.coursemodtab": "Cobalt Mod"
+  "itemGroup.coursemodtab": "Cobalt Mod",
+
+  "item.mccourse.dowsing_rod.no_valuable": "You Fucking Failed!",
+  "tooltip.mccourse.dowsing_rod.tooltop.shift": "lo§elo§rlolo§elo§rlolo§elo§rlolo§elo§rlolo§elo§rlolo§elo§rlolo§elo§rlolo§elo§rlo",
+  "tooltip.mccourse.dowsing_rod.tooltop": "Press §eShift§r to show more info on item.",
+  "tooltip.block.speedy_block": "SPEEEEED",
+  "tooltip.block.thing": "§eThing...?§r"
 
 }

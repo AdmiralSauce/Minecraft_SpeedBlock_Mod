@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "ABA"
+  ],
+  "key": {
+    "#": {
+      "item": "mccourse:cobalt_ingot"
+    },
+    "A": {
+      "item": "mccourse:thing"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    },
+  "result": {
+    "item": "mccourse:speedy_block"
+  }
+  }
+}
